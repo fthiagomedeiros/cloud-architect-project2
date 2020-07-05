@@ -12,18 +12,18 @@ A NAT Gateway DONE
 
 A CloudFront distribution with an S3 Bucket DONE
 
-Web servers in the Public Subnets
+Web servers in the Public Subnets DONE
 
-Application Servers in the Private Subnets
+Application Servers in the Private Subnets DONE
 
 DB Servers in the Private Subnets DONE
 
-Web Servers Load Balanced and Autoscaled
+Web Servers Load Balanced and Autoscaled DONE
 
-Application Servers Load Balanced and Autoscaled
+Application Servers Load Balanced and Autoscaled DONE
 
 A Master DB in AZ 1 with a read replica in AZ2 DONE
 
-All services in the diagram include a label to indicate the type of service and any necessary parameters (e.g. size, location)
+All services in the diagram include a label to indicate the type of service and any necessary parameters (e.g. size, location) DONE
 
 Visible lines represent all network connections
