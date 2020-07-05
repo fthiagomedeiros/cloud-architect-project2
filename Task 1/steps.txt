@@ -1,0 +1,29 @@
+Infrastructure in the following regions: us-east-1 DONE
+
+Users and Client machines DONE
+
+One VPC DONE
+
+Two Availability Zones DONE
+
+Four Subnets (2 Public, 2 Private) DONE
+
+A NAT Gateway DONE
+
+A CloudFront distribution with an S3 Bucket DONE
+
+Web servers in the Public Subnets
+
+Application Servers in the Private Subnets
+
+DB Servers in the Private Subnets DONE
+
+Web Servers Load Balanced and Autoscaled
+
+Application Servers Load Balanced and Autoscaled
+
+A Master DB in AZ 1 with a read replica in AZ2 DONE
+
+All services in the diagram include a label to indicate the type of service and any necessary parameters (e.g. size, location)
+
+Visible lines represent all network connections

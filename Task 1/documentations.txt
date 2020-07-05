@@ -1,0 +1,3 @@
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
+
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
