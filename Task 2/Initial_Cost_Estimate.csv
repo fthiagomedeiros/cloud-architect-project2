@@ -7,3 +7,5 @@ Initial_Cost_Estimate,US East (N. Virginia),S3 Standard,0,690.02,8280.24,USD,S3 
 Initial_Cost_Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,Data Transfer
 Initial_Cost_Estimate,US East (N. Virginia),Amazon Route 53,0,0.5,6.00,USD,Hosted Zones (1)
 Monthly cost:,,,,8917.31 USD,,,
+.,.,.,.,.,.,.,.
+Details:,,,,,,,https://calculator.aws/#/estimate?id=fd7e5b3dcf0566bb113f9ad590a316f8f76fe00b
