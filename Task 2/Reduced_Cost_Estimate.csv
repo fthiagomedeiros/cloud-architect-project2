@@ -1,14 +1,13 @@
 Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
 Reduced_Cost_Estimate,US East (N. Virginia),Amazon EC2,0,2199.48,26393.76,USD,"Operating system (Linux), Quantity (20), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (50 GB), Instance type (t3.2xlarge)"
 Reduced_Cost_Estimate,US East (N. Virginia),Elastic Load Balancing,0,1200.85,14410.20,USD,Number of Application Load Balancers (2)
-Reduced_Cost_Estimate,US East (N. Virginia),Amazon RDS for MySQL,7310,632.112,14895.34,USD,"Quantity (2), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (db.m5.4xlarge)"
+Reduced_Cost_Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,1302.252,15627.02,USD,"Quantity (2), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (db.m5.4xlarge)"
 Reduced_Cost_Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,965.7,11588.40,USD,Number of NAT Gateways (2)
 Reduced_Cost_Estimate,US East (N. Virginia),S3 Standard,0,690.02,8280.24,USD,S3 Standard storage (30000 GB per month)
-Reduced_Cost_Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,Data Transfer
+Reduced_Cost_Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,"Inbound (from: Not selected) 0 TB per month Outbound (to: Not selected) 0 TB per month "
 Reduced_Cost_Estimate,US East (N. Virginia),Amazon Route 53,0,0.5,6.00,USD,Hosted Zones (1)
-Monthly cost:,,,,5.688 USD,,,
+Monthly cost:,,,,6,358.80 USD,,,
 Details:,,,,,,,https://calculator.aws/#/estimate?id=acc146c1b90112bc50574984826c1bbd8440c0b3
 .,.,.,.,.,.,.,.
-Narrative:,,,,,,,I decided to change the RDS instance type from db.m5.12xlarge to db.m5.4xlarge. It reduced the costs significantly to 5.688 USD.
-Narrative:,,,,,,,To keep performance I could redirect reading traffic to the RDS replica reducing load in the master RDS instance or even
-Narrative:,,,,,,,increase the number of instances running the application server but keep the costs below 6500 USD
+Narrative:,,,,,,,I decided to change the RDS instance type from db.m5.12xlarge to db.m5.4xlarge. It reduced the costs significantly to 6.358 USD.
+Narrative:,,,,,,,To keep performance I could load balance reading traffic to the RDS replica reducing loading in the master RDS instance
