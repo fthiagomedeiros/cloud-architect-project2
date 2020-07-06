@@ -1,5 +1,5 @@
 Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
-Initial_Cost_Estimate,US East (N. Virginia),Amazon Elastic IP,0,29.2,350.40,USD,Number of EC2 instances (16), Number of EIPs per instance (1)
+Initial_Cost_Estimate,US East (N. Virginia),Amazon Elastic IP,0,29.2,350.40,USD,Number of EC2 instances (16) Number of EIPs per instance (1)
 Initial_Cost_Estimate,US East (N. Virginia),Elastic Load Balancing,0,1200.85,14410.20,USD,Number of Application Load Balancers (2)
 Initial_Cost_Estimate,US East (N. Virginia),Amazon EC2,0,2484.45,29813.40,USD,Operating system (Linux) Quantity (16) Storage for each EC2 instance (General Purpose SSD (gp2)) Storage amount (30 GB) Instance type (t3.2xlarge)
 Initial_Cost_Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,77.85,934.20,USD,Number of NAT Gateways (1)
