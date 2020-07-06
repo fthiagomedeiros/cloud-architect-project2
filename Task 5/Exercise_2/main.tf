@@ -1,3 +1,6 @@
+#Source
+#https://www.terraform.io/docs/providers/aws/r/lambda_function.html
+
 
 provider "aws" {
   region = var.aws_region
@@ -72,11 +75,9 @@ resource "aws_lambda_function" "geeting_lambda" {
   handler = "greet_lambda.lambda_handler"
   runtime = "python3.8"
   role = aws_iam_role.iam_for_lambda.arn
-
   environment{
       variables = {
-          greeting = "Hello World!"
+          greeting = "Hello Udacity - Terraform!"
       }
   }
-
 }
