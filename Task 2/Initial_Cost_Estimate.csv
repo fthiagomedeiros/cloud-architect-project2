@@ -1,5 +1,5 @@
 Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
-Initial_Cost_Estimate,US East (N. Virginia),Amazon EC2,0,3145.56,37746.72,USD,"Operating system (Linux), Quantity (20), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (50 GB), Instance type (t3.2xlarge)"
+Initial_Cost_Estimate,US East (N. Virginia),Amazon EC2,0,3145.56,37746.72,USD,"Operating system (Linux), Quantity (20), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (50 GB), Instance type (t3.2xlarge), EC2 Instance Savings Plans (1 year contract)"
 Initial_Cost_Estimate,US East (N. Virginia),Elastic Load Balancing,0,2368.85,28426.20,USD,Number of Application Load Balancers (2)
 Initial_Cost_Estimate,US East (N. Virginia),Amazon RDS for MySQL,44220,1235.198,59042.38,USD,"Quantity (2), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (30 GB)"
 Initial_Cost_Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,965.7,11588.40,USD,Number of NAT Gateways (2)
@@ -7,4 +7,5 @@ Initial_Cost_Estimate,US East (N. Virginia),S3 Standard,0,690.02,8280.24,USD,S3 
 Initial_Cost_Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,Data Transfer
 Initial_Cost_Estimate,US East (N. Virginia),Amazon Route 53,0,0.5,6.00,USD,Hosted Zones (1)
 Monthly cost:,,,,8.405 USD,,,
-Details:,https://calculator.aws/#/estimate?id=e01f4e5a31f1acfb50ca2d176e7fff782814cb7c,,,,,,
+Details:,,,,,,,https://calculator.aws/#/estimate?id=e01f4e5a31f1acfb50ca2d176e7fff782814cb7c
+,,,,,,,
