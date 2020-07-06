@@ -1,12 +1,3 @@
-# TODO: Define the output variable for the lambda function.
-variable "aws_region" {
-  default = "us-east-1"
-}
-
-variable "lambda_name" {
-  default = "greet_lambda"
-}
-
-variable "lambda_output_path" {
-  default = "output.zip"
+output "lambda_function_arn" {
+  value = "${aws_lambda_function.geeting_lambda.arn}"
 }
