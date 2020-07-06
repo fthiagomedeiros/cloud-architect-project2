@@ -6,7 +6,7 @@ Reduced_Cost_Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0
 Reduced_Cost_Estimate,US East (N. Virginia),S3 Standard,0,690.02,8280.24,USD,S3 Standard storage (30000 GB per month)
 Reduced_Cost_Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,"Inbound (from: Not selected) 0 TB per month Outbound (to: Not selected) 0 TB per month "
 Reduced_Cost_Estimate,US East (N. Virginia),Amazon Route 53,0,0.5,6.00,USD,Hosted Zones (1)
-Monthly cost:,,,,6,358.80 USD,,,
+Monthly cost:,,,,6358.80 USD,,,
 Details:,,,,,,,https://calculator.aws/#/estimate?id=acc146c1b90112bc50574984826c1bbd8440c0b3
 .,.,.,.,.,.,.,.
 Narrative:,,,,,,,I decided to change the RDS instance type from db.m5.12xlarge to db.m5.4xlarge. It reduced the costs significantly to 6.358 USD.
