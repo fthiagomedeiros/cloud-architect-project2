@@ -13,6 +13,6 @@ https://calculator.aws/#/estimate?id=039ff3c6f8ab32d7d03a13d601681e41b2d63331
 
 
 In this scenario, I just changed the database type from db.m5.12xlarge to db.m5.4xlarge. It reduced the cost initial from 8,181.70 USD to 5,623.19 USD. The most costly resource is definitely RDS. 
-Another approach I would reduce the EC2 instances price having a more long term contract.
+Another approach I would evaluate is reducing the number of EC2 instances price or having a more long term contract (3 years reserved instances)
 
 Monthly cost: 5.623,19 USD
