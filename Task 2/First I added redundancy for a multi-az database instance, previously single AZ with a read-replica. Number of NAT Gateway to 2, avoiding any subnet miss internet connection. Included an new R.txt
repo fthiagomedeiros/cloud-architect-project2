@@ -1,6 +1,0 @@
-Redundancy for multi-az database master instance.
-Added a new NAT Gateway to have 2 (redundancy)
-Included a new RDS Replica in another region (IRELAND)
-Included an CDN in front of the S3 bucket to provide data close to users
-Included an Amazon Elasticache for fast access 
-In a s3 bucket, we could add a lifecycle policy to avoid unnecessary costs for infraquently access (old files)
