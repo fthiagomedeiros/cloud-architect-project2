@@ -9,5 +9,7 @@ Initial_Cost_Estimate,US East (N. Virginia),S3 Standard,0,505.4,6064.80,USD,S3 S
 "Initial_Cost_Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,"" Inbound (from: Not selected) 0 TB per month "
  Outbound (to: Not selected) 0 TB per month 
 ,,,,,,,
-For a better visualization, please, have a look in link below
+For a better visualization, please, have a look in the link below
 https://calculator.aws/#/estimate?id=d7878aec6f2738c49d2abae6cb052249db193e1f
+
+Monthly Cost: 8,181.70 USD
