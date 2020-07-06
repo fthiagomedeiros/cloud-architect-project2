@@ -1,3 +1,5 @@
+References: 
+https://www.techtruffle.com/blog/aws/three-tier-architecture/
+https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
-
 https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
