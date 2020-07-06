@@ -6,6 +6,5 @@ Reduced_Cost_Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0
 Reduced_Cost_Estimate,US East (N. Virginia),S3 Standard,0,690.02,8280.24,USD,S3 Standard storage (30000 GB per month)
 Reduced_Cost_Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,Data Transfer
 Reduced_Cost_Estimate,US East (N. Virginia),Amazon Route 53,0,0.5,6.00,USD,Hosted Zones (1)
-.,.,.,.,.,.,.,.
-Monthly cost:,,,,5,688.66 USD,,,
+Monthly cost:,,,,5.688 USD,,,
 Details:,,,,,,,https://calculator.aws/#/estimate?id=acc146c1b90112bc50574984826c1bbd8440c0b3
