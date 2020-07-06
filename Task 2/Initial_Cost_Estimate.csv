@@ -8,4 +8,4 @@ Initial_Cost_Estimate,US East (N. Virginia),Amazon Elastic IP,0,28,336.00,USD,Nu
 Initial_Cost_Estimate,US East (N. Virginia),S3 Standard,0,505.4,6064.80,USD,S3 Standard storage (10000 GB per month)
 Initial_Cost_Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,Inbound (from: Not selected) 0 TB per month Outbound (to: Not selected) 0 TB per month 
 ,,,,,,,
-,,,,9000,,,
+,,,Initial Monthly cost,8.181 USD,,,
