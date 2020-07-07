@@ -11,3 +11,5 @@ Monthly cost:,,,,19.240 USD,,,
 Details:,,,,,,,https://calculator.aws/#/estimate?id=d5f2cd6431ffd87edb0eb6581939de63a49e70f3
 Notes:,,,,,,,"Increase AWS RDS back to the initial setup (db.m5.12xlarge), however, I added protection against disasters, changing the initial instance to a Multi-AZ, previous Standard (Single-AZ). Increase storage capacity for the RDS instance."
 Notes:,,,,,,,"Improved ELB specs"
+Notes:,,,,,,,"Increased the number of EC2 instances from 20 to 32, almost doubling the number of instances (Application Servers and Web servers)"
+Notes:,,,,,,,"Increased the storage capacity for S3"
