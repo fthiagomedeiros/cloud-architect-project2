@@ -11,5 +11,5 @@ Monthly cost:,,,,6.462 USD,,,
 Details:,,,,,,,https://calculator.aws/#/estimate?id=7813ca62620bc98336072f0cc597b7764f24ca5e
 .,.,.,.,.,.,.,.
 .,.,.,.,.,.,.,.
-Narrative:,,,,,,,I decided to change the RDS instance type from db.m5.12xlarge to db.m5.4xlarge. It reduced the costs significantly to 6.358 USD.
+Narrative:,,,,,,,I decided to change the RDS instance type from db.m5.12xlarge to db.m5.4xlarge. It reduced the costs significantly to 6.462 USD.
 Narrative:,,,,,,,To keep performance I could load balance reading traffic to the RDS replica reducing loading in the master RDS instance
