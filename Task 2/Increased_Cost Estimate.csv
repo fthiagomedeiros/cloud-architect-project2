@@ -7,4 +7,7 @@ Increased_Cost Estimate,US East (N. Virginia),S3 Standard,0,2251.22,27014.64,USD
 Increased_Cost Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD,Data Transfer
 Increased_Cost Estimate,US East (N. Virginia),Amazon Route 53,0,0.5,6.00,USD,Hosted Zones (1)
 Increased_Cost Estimate,US East (N. Virginia),Amazon CloudWatch,0,103.9004,1246.80,USD,
-Monthly cost:,,,,19,240.05 USD,,,
+Monthly cost:,,,,19.240 USD,,,
+Details:,,,,,,,https://calculator.aws/#/estimate?id=d5f2cd6431ffd87edb0eb6581939de63a49e70f3
+Notes:,,,,,,,Increase AWS RDS back to the initial setup (db.m5.12xlarge), however, I added protection against disasters, changing the initial instance to a Multi-AZ, previous Standard (Single-AZ). Increase storage capacity for the RDS instance.
+Notes:,,,,,,,Increase AWS RDS back to the initial setup (db.m5.12xlarge), however, I added protection against disasters, changing the initial instance to a Multi-AZ, previous Standard (Single-AZ). Increase storage capacity for the RDS instance.
